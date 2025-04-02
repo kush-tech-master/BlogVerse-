@@ -1,4 +1,4 @@
-# assignment-project-4
+# BlogVerse 
 
 ![Screenshot 2025-01-24 015209](https://github.com/user-attachments/assets/eb1e0fd9-1397-41f5-8168-58251a3e420e)
 ![Screenshot 2025-01-24 015445](https://github.com/user-attachments/assets/b61aa9cd-1f1b-466d-9f11-6f6227e2fe5b)
